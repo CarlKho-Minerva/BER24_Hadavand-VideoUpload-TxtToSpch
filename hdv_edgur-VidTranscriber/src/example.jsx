@@ -44,7 +44,7 @@ const Example = () => {
   return (
     <div
     style={{
-        backgroundColor: "#f2f2f2",
+        backgroundColor: "#000000",
         padding: "20px",
         borderRadius: "8px",
     }}

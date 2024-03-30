@@ -1,7 +1,7 @@
 import React, {useRef, useEffect, useState} from 'react';
 import axios from 'axios';
 
-const VITE_OPEN_API_KEY = import.meta.env.VITE_OPEN_API_KEY;
+const VITE_OPEN_API_KEY = 'import.meta.env.VITE_OPEN_API_KEY';
 const model = "whisper-1";
 
 const Example = () => {
